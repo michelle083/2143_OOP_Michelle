@@ -1,8 +1,47 @@
+/*****************************************************************************
+*                    
+*  Author:           Michelle Orru
+*  Email:            morru1008@my.msutexas.edu
+*  Label:            A03
+*  Title:            
+*  Course:           CMPS 2143
+*  Semester:         Fall 2022
+* 
+*  Description:
+*        
+*        
+*  Usage: 
+*       N/A
+*
+*  Files:            
+*       main.cpp    
+*****************************************************************************/
+
 #include <iostream>
 
 using namespace std;
 
-
+/**
+ * Class Name: CircularArrayQue
+ * 
+ * Description:
+ *      
+ * 
+ * Public Methods:
+ *      - CircularArrayQue()
+ *      - CircularArrayQue(int size)
+ *      - void Push(int item)
+ *      - int Pop()
+ * 
+ * Private Methods:
+ *      - void Init 
+ *      - bool Full
+ *      
+ * Usage: 
+ *      - 
+ *      - 
+ *      
+ */
 class CircularArrayQue {
 private:
     int *Container;
@@ -15,6 +54,19 @@ private:
         QueSize = size;
     }
 
+/**
+ * Private: Full
+ * 
+ * Description:
+ *      
+ * 
+ * Params:
+ *      - CurrentSize
+ *      - QueSize
+ * 
+ * Returns:
+ *      - bool, true or false based on the equality
+ */
     bool Full() {
         return CurrentSize == QueSize;
     }
@@ -29,6 +81,21 @@ public:
         init(size);
     }
 
+/**
+ * Public: Push
+ * 
+ * Description:
+ *      
+ * 
+ * Params:
+ *      - 
+ *      - 
+ *      - 
+ *      - 
+ * 
+ * Returns:
+ *      - void
+ */
     void Push(int item) {
         if (!Full()) {
             Container[Rear] = item;
@@ -39,6 +106,21 @@ public:
         }
     }
 
+/**
+ * Public: int Pop
+ * 
+ * Description:
+ *      
+ * 
+ * Params:
+ *      - 
+ *      - 
+ *      - 
+ *      - 
+ * 
+ * Returns:
+ *      - temp
+ */
     int Pop() {
         int temp = Container[Front];
         Front = (Front + 1) % QueSize;
