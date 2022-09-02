@@ -1,8 +1,8 @@
 ## A04 - Commenting Code
 ### Michelle Orru
-### Description: Program commented 
+### Description: Program with the use of commenting guidelines
 
-This program implements a list data structure that links together nodes of integers. It does more stuff, but we don't need to write that here.
+This program implements a list data structure that links together nodes of integers. 
 
 ### Files
 
