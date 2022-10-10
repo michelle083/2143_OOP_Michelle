@@ -1,5 +1,5 @@
-## P01 - Vector Class
-### Michelle Orru
+# P01 - Vector Class
+## Michelle Orru
 ### Description: Create a linked list based vector class
 
 This program will add, remove or maintain from a linked list based vector class
