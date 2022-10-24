@@ -1,1 +1,31 @@
+## A04 - Basic OOP Terminology
+### Michelle Orru
+### Description: define the following terms 
+
+- Abstraction
+- Attributes / Properties
+- Class
+- Class Variable
+- Composition
+- Constructor
+- Encapsulation
+- Friends
+- Inheritance
+- Instance Variable
+- Member Variable
+- Method
+- Multiple Inheritance
+- Object
+- Overloading
+- Polymorphism
+- Public / Private / Protected
+- Static
+- Virtual
+
+### Files
+
+|   #   | File     | Description                      |
+| :---: | -------- | -------------------------------- |
+|   1   | (wiki) <     | wiki page for the files |
+
 
