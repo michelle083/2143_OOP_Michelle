@@ -26,6 +26,6 @@
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | (wiki) <     | wiki page for the files |
+|   1   | [wiki] (https://github.com/michelle083/2143_OOP_Michelle/wiki/OOP-Primer)     | wiki page for the files |
 
 
