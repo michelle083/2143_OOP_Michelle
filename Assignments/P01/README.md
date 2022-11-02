@@ -8,7 +8,7 @@ This program will add, remove or maintain from a linked list based vector class
 
 |   #   |    File    | Description                      |
 | :---: |  --------  | -------------------------------- |
-|   1   | header.txt |                                  |
+|   1   | banner.txt |                                  |
 |   2   |  main.cpp  | Main driver of my list program   |
 |   3   |   output   |                                  |
 
