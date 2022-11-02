@@ -12,7 +12,7 @@ Design and implement a console based blackjack game that can be played by 1 play
 |   1   | [header.txt] |                                  |
 |   2   | [main.cpp]  | Main driver of my list program   |
 |   3   | [blackjack.hpp] |                             |
-|   3   | [colors.h]   |                                  |
+|   4   | [colors.h](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P03/colors.h)   |                                  |
 
 
 ### Instructions
