@@ -2,7 +2,8 @@
 ## Michelle Orru
 ### Description:
 
-Perform operations to the first program
+Design and implement a console based blackjack game that can be played by 1 player against a dealer.
+
 
 ### Files
 
