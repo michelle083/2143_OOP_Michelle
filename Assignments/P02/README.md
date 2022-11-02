@@ -8,7 +8,7 @@ Perform operations to the first program
 
 |   #   |    File    | Description                      |
 | :---: |  --------  | -------------------------------- |
-|   1   | header.txt |                                  |
+|   1   | banner.txt |                                  |
 |   2   |  main.cpp  | Main driver of my list program   |
 |   3   |   output   |                                  |
 
