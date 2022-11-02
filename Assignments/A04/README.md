@@ -27,5 +27,5 @@
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [OOP Primer](https://github.com/michelle083/2143_OOP_Michelle/wiki/OOP-Primer)     | wiki page for the definitions |
-|   2   | [header.txt](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/A04/banner.txt)|                                 |
+|   2   | [banner.txt](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/A04/banner.txt)|                                 |
 
