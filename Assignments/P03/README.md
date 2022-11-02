@@ -9,9 +9,10 @@ Design and implement a console based blackjack game that can be played by 1 play
 
 |   #   |    File    | Description                      |
 | :---: |  --------  | -------------------------------- |
-|   1   | header.txt |                                  |
-|   2   |  main.cpp  | Main driver of my list program   |
-|   3   |   output   |                                  |
+|   1   | [header.txt] |                                  |
+|   2   | [main.cpp]  | Main driver of my list program   |
+|   3   | [blackjack.hpp] |                             |
+|   3   | [colors.h]   |                                  |
 
 
 ### Instructions
