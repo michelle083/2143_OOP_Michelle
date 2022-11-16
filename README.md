@@ -3,6 +3,6 @@
 #### Email: michelle08.mo@gmail.com
 #### Image: 
 
-![IMG-5156 <div style="width:10px ; height:10px">](https://user-images.githubusercontent.com/100542045/202239634-8b6e9e53-5730-48bb-ad30-2396a95eb1a6.JPG)
-   
+><img src="https://user-images.githubusercontent.com/100542045/202239634-8b6e9e53-5730-48bb-ad30-2396a95eb1a6.JPG" width=250>
+
 #### Avatar:
