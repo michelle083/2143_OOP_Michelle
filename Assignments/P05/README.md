@@ -16,7 +16,7 @@ Write a program that creates the appropriate number of characters based on the i
 ### Instructions
 
 
-- Base Character
+- Base Characters:
   - Warrior: 
     - Uses a sword as a weapon
   - Wizard: 
@@ -28,9 +28,8 @@ Write a program that creates the appropriate number of characters based on the i
   - DragonBorn:
     - Uses magic + fire as a weapon>
 
--Rules
-  There are a few other odd rules that I will list here:
-
+- Rules:
+  
   - Attacking force can be any size from a few to thousands.
   - Defending force can have 1 of each character type for every 100 attackers.
   - Attacking force can heal only during battle.
