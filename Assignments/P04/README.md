@@ -16,7 +16,19 @@
 
 ### Instructions
 
-- This program does not require any non standard libraries
+| Text Rule                   | Visual Version  |
+| :-------------------------- | :-------------- |
+| Scissors cuts Paper         | 🔪 cuts 📃        |
+| Paper covers Rock           | 📃 covers 🗻      |
+| Rock crushes Lizard         | 🗻 crushes 🐸     |
+| Lizard poisons Spock        | 🐸  poisons 🖖    |
+| Spock smashes Scissors      | 🖖 smashes 🔪     |
+| Scissors decapitates Lizard | 🔪 decapitates 🐸 |
+| Lizard eats Paper           | 🐸  eats 📃       |
+| Paper disproves Spock       | 📃 disproves 🖖   |
+| Spock vaporizes Rock        | 🖖 vaporizes 🗻   |
+| Rock crushes Scissors       | 🗻 crushes 🔪     |
+
 
 ### Example Command
 ```cpp
