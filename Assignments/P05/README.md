@@ -15,22 +15,36 @@ Write a program that creates the appropriate number of characters based on the i
 
 ### Instructions
 
-There are a few other odd rules that I will list here:
 
-- Attacking force can be any size from a few to thousands.
-- Defending force can have 1 of each character type for every 100 attackers.
-- Attacking force can heal only during battle.
-- Defending force can heal at any time.
-- Any character that reaches zero hit points expires and is removed from the game. 
-- Defending force can swap out characters of the same type in the middle of any battle when it is their turn to attack. This will be used in place of an attack.
+- Base Character
+  - Warrior: 
+    - Uses a sword as a weapon
+  - Wizard: 
+    - Uses magic as a weapon
+  - Archer:
+    - Uses a bow as a weapon
+  - Elf: 
+    - Uses magic + a sword as their weapons
+  - DragonBorn:
+    - Uses magic + fire as a weapon>
 
-You will still have a base character that gets extended by different variations. Each variation will have slightly different abilities that will be explained more a little later. The attacking characters will have the following:
+-Rules
+  There are a few other odd rules that I will list here:
 
-- `Hit Points` (life points) : How many points until expiration
-- `Attack Strength` : Points damage against who they are fighting. Values similar to the following:
-- `Recovery speed` : regains x number of hit points per round
+  - Attacking force can be any size from a few to thousands.
+  - Defending force can have 1 of each character type for every 100 attackers.
+  - Attacking force can heal only during battle.
+  - Defending force can heal at any time.
+  - Any character that reaches zero hit points expires and is removed from the game. 
+  - Defending force can swap out characters of the same type in the middle of any battle when it is their turn to attack. This will be used in place of an attack.
 
-All the attackers will be read from an input file into a queue of some sort. When an attacker has lost all of its hit points, it is removed from the queue. The game ends when either the attacker queue is empty, or the BolniVerse fighters queue is empty.
+  You will still have a base character that gets extended by different variations. Each variation will have slightly different abilities that will be explained more a little later. The attacking characters will have the following:
+
+  - `Hit Points` (life points) : How many points until expiration
+  - `Attack Strength` : Points damage against who they are fighting. Values similar to the following:
+  - `Recovery speed` : regains x number of hit points per round
+
+  All the attackers will be read from an input file into a queue of some sort. When an attacker has lost all of its hit points, it is removed from the queue. The game ends when either the attacker queue is empty, or the BolniVerse fighters queue is empty.
 
 ### Example Command
 
