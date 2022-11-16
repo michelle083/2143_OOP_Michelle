@@ -26,7 +26,7 @@ Write a program that creates the appropriate number of characters based on the i
   - Elf: 
     - Uses magic + a sword as their weapons
   - DragonBorn:
-    - Uses magic + fire as a weapon>
+    - Uses magic + fire as a weapon
 
 - Rules:
   
