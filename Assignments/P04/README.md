@@ -1,8 +1,8 @@
 # P04 - RPSLS Program
 ## Michelle Orru
-### Description:
+### Description: create a rock, paper, scissors, lizard, spock game
 
-create a rock, paper, scissors, lizard, spock game
+
 
 
 ### Files
