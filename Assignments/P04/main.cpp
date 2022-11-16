@@ -7,7 +7,7 @@
  *  Semester:         Fall 2022
  *
  *  Description:
- *        This is my program for the
+ *        This is my program for the RPSLS game. 
  *
  *  Files:
  *       main.cpp        : driver program
