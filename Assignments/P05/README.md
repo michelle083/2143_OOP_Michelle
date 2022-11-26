@@ -10,7 +10,13 @@ Write a program that creates the appropriate number of characters based on the i
 |   #   |    File    | Description                      |
 | :---: |  --------  | -------------------------------- |
 |   1   | [banner.txt](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/banner.txt) |                                  |
-|   2   | [main.cpp](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/main.cpp)  | Main driver of my list program   |
+|   2   | [input.txt](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/input.txt) |                   |
+|   3   | [main.cpp](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/main.cpp)  | Main driver of my list program   |
+|   4   | [dice.hpp](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/dice.hpp) |                                  |
+|   5   | [helper.hpp](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/helper.hpp)  |  |
+|   6   | [fighter.hpp](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/fighter.hpp)|              |
+|   6   | [weapon.hpp](https://github.com/michelle083/2143_OOP_Michelle/blob/main/Assignments/P05/weapon.hpp) |                   |
+
 
 
 ### Instructions
