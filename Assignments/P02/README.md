@@ -10,7 +10,7 @@ Perform operations to the first program
 | :---: |  --------  | -------------------------------- |
 |   1   | banner.txt |                                  |
 |   2   |  main.cpp  | Main driver of my list program   |
-|   3   |   output   |                                  |
+|   3   |   outfile.txt   |                                  |
 
 
 ### Instructions
