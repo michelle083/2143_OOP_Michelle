@@ -12,7 +12,7 @@ using namespace std;
 class Weapon {
     string name;    // name of weapon
     string damage;  // damage per roll or "use"
-    Dice*  die;
+    Dice* die;
 
 public:
     /**
@@ -35,11 +35,27 @@ public:
         die = new Dice(damage);
     }
 
+    Weapon(string n, string d) {
+        name = n;
+        damage = d;
+        die = new Dice(damage);
+    }
+
+    string getName() {
+        return name;
+    }
+
     double use() {
         return die->roll();
     }
+
+    string getDamage() {
+        return damage;
+    }
+
 
     friend ostream& operator<<(ostream& os, const Weapon& w) {
         return os << "[" << w.name << " , " << w.damage << "]";
     }
 };
+
